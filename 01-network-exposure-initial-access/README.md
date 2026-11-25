@@ -49,7 +49,7 @@ Technique alignment: [MITRE ATT&CK T1552.001](https://attack.mitre.org/technique
 
 The assessment established a reproducible cause-and-effect chain from service discovery to authenticated access, followed by negative verification of the tested access paths. The compromised account was **not root**, and an HTTP 404 response does **not** independently establish that the underlying configuration has been comprehensively audited.
 
-The accompanying full report provides the executive summary, technical walkthrough, two formal findings, evidence register, and remediation qualifications in **`Project1_Network_Exposure_Initial_Access.md`** and PDF formats.
+The accompanying full report provides the executive summary, technical walkthrough, two formal findings, evidence register, and remediation qualifications in **`Project1_Network_Exposure_Initial_Access.pdf`**.
 
 ## Credits
 
